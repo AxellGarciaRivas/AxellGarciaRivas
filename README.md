@@ -1,7 +1,7 @@
 
 # <p align="center"> Hola :v:, Soy Axell Garcia</p> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
 
 ---
 
