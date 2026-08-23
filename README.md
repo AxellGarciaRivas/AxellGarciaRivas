@@ -15,7 +15,7 @@
 * **[Decodificador](https://axellgarciarivas.github.io/Changelle-Oracle-ONE-Decodificador/):** Desarrollo de encriptador secillo en programa alura Next Education con las tecnologias html, css, js puro.
 ---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 ### Acerca de mí
 
 
