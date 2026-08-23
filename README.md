@@ -16,7 +16,7 @@
 ---
 
 ### Acerca de mí
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 190px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture>
 
 - :school: Soy estudiante afines de carrera de Ingeniería en Sistemas en la [Universidad Fidélitas](https://ufidelitas.ac.cr/).
 - :chart_with_upwards_trend: Me encanta sobre salir en todo lo que haga.
