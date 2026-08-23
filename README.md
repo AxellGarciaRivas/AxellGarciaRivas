@@ -23,7 +23,6 @@
 - :computer: No programo para solucionar problemas, programo para crear soluciones.
 - :sunglasses: Siempre con ganas de adquirir nuevos conocimientos.
 - :muscle: Estoy abierto a nuevas oportunidades [mi curriculo](http://lnkiy.in/Ahmed_Hossam_Resume).
-- <br>
 ---
 
 ### 💻 Tecnologías y Habilidades
