@@ -23,7 +23,7 @@
 - :chart_with_upwards_trend: Me encanta sobre salir en todo lo que haga.
 - :computer: No programo para solucionar problemas, programo para crear soluciones.
 - :sunglasses: Siempre con ganas de adquirir nuevos conocimientos.
-- :muscle: Estoy abierto a nuevas oportunidades [mi curriculo](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :muscle: Estoy abierto a nuevas oportunidades [mi curriculo](docs/Axell_Garcia_CV_2026.pdf).
 ---
 
 ### 💻 Tecnologías y Habilidades
